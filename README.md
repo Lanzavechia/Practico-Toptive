@@ -1,7 +1,7 @@
 # Practico-Toptive
 
 
--To run server use comand "npm run dev" .
+-To run server use comand "npm run dev" (from Practico-Toptive folder ).
 
 -database:{
         host: 'localhost',
